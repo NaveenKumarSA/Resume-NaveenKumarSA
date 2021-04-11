@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Resume-NaveenKumarSA/static/css/main.cd49d0b5.chunk.css",
+    "main.js": "/Resume-NaveenKumarSA/static/js/main.0d64b519.chunk.js",
+    "main.js.map": "/Resume-NaveenKumarSA/static/js/main.0d64b519.chunk.js.map",
+    "runtime-main.js": "/Resume-NaveenKumarSA/static/js/runtime-main.25bc40de.js",
+    "runtime-main.js.map": "/Resume-NaveenKumarSA/static/js/runtime-main.25bc40de.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Resume-NaveenKumarSA/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.aef2ce3c.chunk.js": "/Resume-NaveenKumarSA/static/js/2.aef2ce3c.chunk.js",
+    "static/js/2.aef2ce3c.chunk.js.map": "/Resume-NaveenKumarSA/static/js/2.aef2ce3c.chunk.js.map",
+    "static/js/3.e6157742.chunk.js": "/Resume-NaveenKumarSA/static/js/3.e6157742.chunk.js",
+    "static/js/3.e6157742.chunk.js.map": "/Resume-NaveenKumarSA/static/js/3.e6157742.chunk.js.map",
+    "index.html": "/Resume-NaveenKumarSA/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Resume-NaveenKumarSA/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.cd49d0b5.chunk.css.map": "/Resume-NaveenKumarSA/static/css/main.cd49d0b5.chunk.css.map",
+    "static/js/2.aef2ce3c.chunk.js.LICENSE.txt": "/Resume-NaveenKumarSA/static/js/2.aef2ce3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25bc40de.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.aef2ce3c.chunk.js",
+    "static/css/main.cd49d0b5.chunk.css",
+    "static/js/main.0d64b519.chunk.js"
+  ]
+}
