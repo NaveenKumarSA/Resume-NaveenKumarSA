@@ -63,7 +63,7 @@ export default function CustomizedAccordions() {
         onChange={handleChange("panel1")}
       >
         <AccordionSummary aria-controls="panel1d-content" id="panel1d-header">
-          <Typography>Exerience</Typography>
+          <Typography>Experience</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
