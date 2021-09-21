@@ -14,7 +14,7 @@ export default function OutlinedTimeline() {
           <TimelineDot variant="outlined" />
           <TimelineConnector />
         </TimelineSeparator>
-        <TimelineContent>Java</TimelineContent>
+        <TimelineContent className="prof_training">Java</TimelineContent>
       </TimelineItem>
       <TimelineItem>
         <TimelineSeparator>
@@ -28,7 +28,7 @@ export default function OutlinedTimeline() {
           <TimelineDot variant="outlined" color="secondary" />
           <TimelineConnector />
         </TimelineSeparator>
-        <TimelineContent>php</TimelineContent>
+        <TimelineContent  className="prof_training">php</TimelineContent>
       </TimelineItem>
       <TimelineItem>
         <TimelineSeparator>

@@ -23,7 +23,30 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.prof_training{
+  display: flex !important;
+}
+.education_tabs{
+  width: 100% !important;
+}
+.profile_image {
+  height: 200px;
+  width: auto;
+  border: 3px solid #424549;
+  margin: 5px;
+  /* border-radius: 25% 25% 25% 0% !important; */
+  animation: profile_photo /* infinite */ 5s linear;
+}
+@keyframes profile_photo {
+  from {
+    /* transform: rotate(0deg); 
+    opacity: 0;*/
+  }
+  to {
+   
+    /* transform: rotate(360deg);  opacity: 1;*/
+  }
+}
 
 @keyframes App-logo-spin {
   from {
